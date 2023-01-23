@@ -1,0 +1,18 @@
+Task
+var market = {
+"fruit" : "Mango",
+"Vegetable": "Bitterguard",
+};	
+for (var a in market){
+ console.log(market[a]);
+}
+----------------------------
+Task 2:
+var resume = {
+   "Name":"vijay" ,
+   "age" : "25",
+   "father":"Shanmugam",
+   "mother":"vijayarani",
+   "nationality": "indian",
+   "Language Know" : "Tamil",
+};
