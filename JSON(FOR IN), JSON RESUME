@@ -6,6 +6,15 @@ var market = {
 for (var a in market){
  console.log(market[a]);
 }
+
+var market = ['mango', 'bitterguard']
+    for (let a of market){
+        console.log(a);
+    }
+    
+ market.forEach(item => {
+    console.log("food:" + item);
+});
 ----------------------------
 Task 2:
 var resume = {
