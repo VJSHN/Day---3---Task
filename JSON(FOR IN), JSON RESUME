@@ -25,3 +25,6 @@ var resume = {
    "nationality": "indian",
    "Language Know" : "Tamil",
 };
+for(let data in resume){
+    console.log([data] + ":" + resume[data]);
+}
